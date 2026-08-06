@@ -13,7 +13,7 @@ The following SQL queries were used to analyze the Financial Loan dataset.
 ### Loan Status Analysis
 - Analyzes loan applications, funded amount, and amount received by loan status.
 - ![Loan Status SQL](loan_status_sql.png)
-- 
+ 
 ### State Analysis
 - Examines loan applications, funded amount, and repayments across different states.
 - ![State Analysis SQL](State_sql.png)
@@ -26,14 +26,14 @@ The following SQL queries were used to analyze the Financial Loan dataset.
 - Explores customer borrowing purposes through SQL analysis.
 - ![Purpose SQL](purpose_sql.png)
 
-### Loan Grade Analysis
+### Grade Analysis
 - Evaluates loan performance across different credit grades.
 - ![Grade SQL](_grade_sql.png)
 
 ### Employment Length Analysis
 - Analyzes loan performance based on borrowers' employment length.
 - ![Employment Length SQL](employment_length_sql.png)
-- 
+  
 ### Term Analysis
 - Compares loan performance between 36-month and 60-month loan terms.
 - ![Loan Term SQL](term_sql.png)
