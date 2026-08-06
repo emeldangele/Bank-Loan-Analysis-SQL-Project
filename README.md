@@ -28,7 +28,7 @@ The following SQL queries were used to analyze the Financial Loan dataset.
 
 ### Loan Grade Analysis
 - Evaluates loan performance across different credit grades.
-- ![Loan Grade SQL](_grade_sql.png)
+- ![Grade SQL](_grade_sql.png)
 
 ### Employment Length Analysis
 - Analyzes loan performance based on borrowers' employment length.
