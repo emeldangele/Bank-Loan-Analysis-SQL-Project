@@ -107,7 +107,7 @@ The following SQL queries were used to analyze the Financial Loan dataset.
 
 ## Related Project
 
-- **Bank Loan Analysis Dashboard (Power BI)**
+- [Bank Loan Analysis Dashboard (Power BI)](https://github.com/yourusername/Bank-Loan-Analysis-Dashboard)
 
 ---
 
