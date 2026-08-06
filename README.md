@@ -16,7 +16,7 @@ The following SQL queries were used to analyze the Financial Loan dataset.
  
 ### State Analysis
 - Examines loan applications, funded amount, and repayments across different states.
-- ![State Analysis SQL](State_sql.png)
+- ![State SQL](State_sql.png)
 
 ### Monthly Trend Analysis
 - Tracks monthly loan applications, funded amount, and repayments.
